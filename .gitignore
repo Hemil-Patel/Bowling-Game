@@ -1,0 +1,15 @@
+# Compiled code
+*.o
+
+# make products
+*.d
+
+# Executable code
+*Debug/mkBowling
+
+# Temporary files
+*~
+
+# Hidden files
+.*
+
